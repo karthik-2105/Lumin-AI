@@ -7,11 +7,7 @@ LuminAI is an AI-driven research assistant designed to enhance your document int
 ## Features
 
 ### 1. Document Format Support
-* Supports multiple formats:
   * **PDF**
-  * **DOCX**
-  * **PPTX**
-  * **LaTeX**
 
 ### 2. Intelligent Document Processing
 * Extracts and processes text efficiently from uploaded documents.
